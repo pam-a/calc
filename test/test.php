@@ -18,8 +18,7 @@ public function test5() {
 }
 
 public function test6() {
-    echo "Hello, World!";
-    echo "Hello, World2";
+    echo "Hello, World!"; echo "Hello, World2";
 }
 
 public function test2() {
@@ -31,9 +30,16 @@ public function test4() {
     echo "Hello, World3";
 }
 
+public function test7() {
+    echo "Hello, World!";
+    echo "Hello, World2";
+}
+
 public function test3() {
     echo "Hello, World!";
     echo "Hello, World2";
+    echo "Hello, World3";
+    echo "Hello, World4";
 }
 
 
