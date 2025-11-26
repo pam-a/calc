@@ -24,10 +24,12 @@ public function test2() {
 
 public function test4() {
     echo "Hello, World!";
+    echo "Hello, World3";
 }
 
 public function test3() {
     echo "Hello, World!";
+    echo "Hello, World2";
 }
 
 
