@@ -6,10 +6,12 @@ echo "Hello, World!";
 public function test() {
     echo "Hello, World!";
     echo "Hello, World3";
+    echo "Hello, World4";
 }
 
 public function test5() {
     echo "Hello, World!";
+    echo "Hello, World5";
 }
 
 public function test6() {
