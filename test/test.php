@@ -19,4 +19,13 @@ public function test2() {
     echo "Hello, World!";
 }
 
+public function test4() {
+    echo "Hello, World!";
+}
+
+public function test3() {
+    echo "Hello, World!";
+}
+
+
 ?>
