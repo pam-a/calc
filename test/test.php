@@ -8,6 +8,8 @@ echo "Hello, World3";
 public function test() {
     echo "Hello, World!";
     echo "Hello, World4";
+    echo "Hello, World5";
+    echo "Hello, World6";
 }
 
 public function test5() {
