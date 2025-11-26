@@ -24,7 +24,6 @@ public function test2() {
 
 public function test4() {
     echo "Hello, World!";
-    echo "Hello, World2";
     echo "Hello, World3";
 }
 
