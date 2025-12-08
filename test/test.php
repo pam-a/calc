@@ -23,6 +23,10 @@ public function test6() {
 
 public function test2() {
     echo "Hello, World!";
+    echo "Hello, World!";
+    echo "Hello, World!";
+    echo "Hello, World!";
+    echo "Hello, World!";
 }
 
 public function test4() {
