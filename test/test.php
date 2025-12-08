@@ -12,6 +12,18 @@ public function test() {
     echo "Hello, World6";
 }
 
+public function test8() {
+    echo "Hello, World!";
+    echo "Hello, World5";
+}
+
+
+public function test9() {
+    echo "Hello, World!";
+    echo "Hello, World5";
+    echo "Hello, World5";
+}
+
 public function test5() {
     echo "Hello, World!";
     echo "Hello, World5";
