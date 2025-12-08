@@ -33,6 +33,8 @@ public function test4() {
 public function test7() {
     echo "Hello, World!";
     echo "Hello, World2";
+    echo "Hello, World2";
+    echo "Hello, World2";
 }
 
 public function test3() {
