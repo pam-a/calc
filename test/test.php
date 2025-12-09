@@ -25,16 +25,8 @@ public function test2() {
     echo "Hello, World!";
 }
 
-public function test2-1() {
-    echo "Hello, World!";
-}
-
-public function test2-2() {
-    echo "Hello, World!";
-}
-
-
 public function test4() {
+    echo "Hello, World!";
     echo "Hello, World3";
 }
 
