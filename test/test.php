@@ -28,7 +28,6 @@ public function test5() {
 
 public function test5-1() {
     echo "Hello, World!";
-    echo "Hello, World5";
     echo "Hello, World6";
     echo "Hello, World7";
 }
