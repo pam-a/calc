@@ -14,8 +14,6 @@ public function test() {
 
 public function test4-1() {
     echo "Hello, World!";
-    echo "Hello, World4";
-    echo "Hello, World5";
     echo "Hello, World6";
 }
 
