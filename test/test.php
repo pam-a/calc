@@ -45,6 +45,12 @@ public function test4() {
     echo "Hello, World3";
 }
 
+public function test4-2() {
+    echo "Hello, World!";
+    echo "Hello, World3";
+}
+
+
 public function test7() {
     echo "Hello, World!";
     echo "Hello, World2";
